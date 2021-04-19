@@ -1,7 +1,7 @@
 // Christian Rouse
 // Rocket Patrol Mod
 // 19 April 2021
-// Time: Approximately X hours
+// Time: Approximately 20 hours
 let config = {
   type: Phaser.AUTO,
   width: 640,
