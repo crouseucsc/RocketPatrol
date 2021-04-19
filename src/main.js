@@ -1,3 +1,7 @@
+// Christian Rouse
+// Rocket Patrol
+// 16 April 2021
+// Time: Approximately 7 hours
 let config = {
   type: Phaser.AUTO,
   width: 640,
